@@ -8,4 +8,4 @@ I'm a full-stack and blockchain developer with 8+ years of experience, specializ
 - ☁️ DevOps with AWS & GCP
 - 🧠 Data Science & Web Scraping (Python)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeMaestro106&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlanNeivison&show_icons=true&theme=dark)
