@@ -1,6 +1,6 @@
 # Hi there, I'm Alan Neivision 👋
 
-I'm a full-stack and blockchain developer with 8+ years of experience, specializing in Next.js, AWS, and data-driven applications.
+I'm a full-stack developer with 8+ years of experience, specializing in Next.js, Angular.ja, AWS, and data-driven applications.
 
 ## 💼 What I Do
 - 🚀 Frontend & Full-stack Web Development
