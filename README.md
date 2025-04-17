@@ -26,4 +26,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlanNeivison&show_icons=true&theme=dark)
 
 
-<a href="https://twitter.com/intent/user?screen_name=Alan Neivison">
+<a href="https://twitter.com/intent/user?screen_name=AlanNeivison">Follow me on Twitter</a>
+
