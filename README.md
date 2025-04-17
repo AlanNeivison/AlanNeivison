@@ -24,3 +24,6 @@
 - Integrated automated tests, Docker builds, and deployments with zero downtime.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlanNeivison&show_icons=true&theme=dark)
+
+
+<a href="https://twitter.com/intent/user?screen_name=Alan Neivison">
