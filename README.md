@@ -24,3 +24,13 @@
 - Integrated automated tests, Docker builds, and deployments with zero downtime.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlanNeivison&show_icons=true&theme=dark)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minhthuong031103/minhthuong031103/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minhthuong031103/minhthuong031103/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/minhthuong031103/minhthuong031103/output/github-contribution-grid-snake.svg">
+</picture>
+<div align="center">  
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31tgul2h5zzk35xnmibcn3cgv3u4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
+</div>
