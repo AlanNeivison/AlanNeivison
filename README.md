@@ -23,6 +23,5 @@
 - Set up **GitHub Actions** for a fully automated pipeline to deploy Node.js apps to **AWS EC2**.
 - Integrated automated tests, Docker builds, and deployments with zero downtime.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlanNeivison&show_icons=true&theme=dark)
 
 
